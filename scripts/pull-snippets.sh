@@ -8,6 +8,8 @@ NOTE - this is meant to be used as a standalone script and is only here for refe
 case is that a developer would use this script to pull down the ios-shortcuts repo, run the
 update-snippets.sh script, then cleanup any trace of the repo. This assumes that the repo does not
 already exist in your current directory.
+
+GOTCHA - YOU MUST RESTART XCODE TO SEE THE UPDATED SNIPPETS!!!
 '
 echo Pulling down ios-shortcuts repo...
 
