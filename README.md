@@ -18,7 +18,7 @@ These snippets are defined in `.codesnippet` files at the path:
 This repo has two scripts:
 
 - `scripts/update-snippets.sh`
-    - copies everything in `snippets/` to `~/Library/Developer/Xcode/UserData/CodeSnippets/`
+    - copies everything in `snippets/` to `~/Library/Developer/Xcode/UserData/CodeSnippets/`, overwriting any existing.
 
 - `scripts/pull-snippets.sh`
 
